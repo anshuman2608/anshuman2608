@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring, Spring Boot, LLD**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/anshumansingh5601/overview](https://app.netlify.com/teams/anshumansingh5601/overview)
+- 👨‍💻 My Portfolio- anshuman2608.github.io/
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Core Java, Advance Java, Spring Bootg**
 
