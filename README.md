@@ -8,7 +8,7 @@
 
 - 👨‍💻 My Portfolio- (https://anshuman2608.github.io/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Core Java, Advance Java, Spring Bootg**
+- 💬 Ask me about **HTML, CSS, JavaScript, Core Java, Advance Java, Spring Boot**
 
 - 📫 How to reach me **asingh851127@gmail.com**
 
